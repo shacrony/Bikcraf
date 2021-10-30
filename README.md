@@ -7,5 +7,10 @@
 
 <h2> APRESENTAÇÃO DO PROJETO :biking_man: </h2>
 
+![bikcraft](https://user-images.githubusercontent.com/61089592/139556444-3b4e74f2-fd14-41d6-8530-7ea6b85442fa.gif)
+
+Para conferir mais sobre o site basta <a href="#" target="_blank"> clicar aqui </a> 
+
+
 
 
