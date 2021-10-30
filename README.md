@@ -18,12 +18,12 @@ HTML5
 CSS3
 
 Normalise, Reset e Grid
+
 Responsividade
+
 JavaScript
 
-Jquery
-Animate
-Modernizir
+
 Formulário com PHPMailer
 
 
