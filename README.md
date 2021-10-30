@@ -26,7 +26,7 @@ Animate
 Modernizir
 Formulário com PHPMailer
 
-HTML5
-CSS3
-JavaScript (com os plugins SimpleSlide, SimpleAnime e SimpleForm)
+
+JavaScript (com  plugins )
+
 SASS.
