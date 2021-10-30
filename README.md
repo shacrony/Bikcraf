@@ -11,6 +11,22 @@
 
 Para conferir mais sobre o site basta <a href="#" target="_blank"> clicar aqui </a> 
 
+<h3> TECNOLOGIAS USADAS </h3>
 
+HTML5
 
+CSS3
 
+Normalise, Reset e Grid
+Responsividade
+JavaScript
+
+Jquery
+Animate
+Modernizir
+Formulário com PHPMailer
+
+HTML5
+CSS3
+JavaScript (com os plugins SimpleSlide, SimpleAnime e SimpleForm)
+SASS.
